@@ -1,0 +1,544 @@
+{
+  "categories": [
+    {
+      "name": "Smartphones",
+      "devices": [
+        {
+          "name": "iPhone 15 Pro Max",
+          "width": 430,
+          "height": 932
+        },
+        {
+          "name": "iPhone 15 Pro",
+          "width": 393,
+          "height": 852
+        },
+        {
+          "name": "iPhone 15 Plus",
+          "width": 430,
+          "height": 932
+        },
+        {
+          "name": "iPhone 15",
+          "width": 393,
+          "height": 852
+        },
+        {
+          "name": "iPhone 14 Pro Max",
+          "width": 430,
+          "height": 932
+        },
+        {
+          "name": "iPhone 14 Pro",
+          "width": 393,
+          "height": 852
+        },
+        {
+          "name": "iPhone 14 Plus",
+          "width": 428,
+          "height": 926
+        },
+        {
+          "name": "iPhone 14",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "name": "iPhone SE (2022)",
+          "width": 375,
+          "height": 667
+        },
+        {
+          "name": "iPhone 13 Pro Max",
+          "width": 428,
+          "height": 926
+        },
+        {
+          "name": "iPhone 13 Pro",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "name": "iPhone 13",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "name": "iPhone 13 Mini",
+          "width": 375,
+          "height": 812
+        },
+        {
+          "name": "Samsung Galaxy S23 Ultra",
+          "width": 360,
+          "height": 780
+        },
+        {
+          "name": "Samsung Galaxy S23+",
+          "width": 360,
+          "height": 780
+        },
+        {
+          "name": "Samsung Galaxy S23",
+          "width": 360,
+          "height": 780
+        },
+        {
+          "name": "Samsung Galaxy Z Fold4",
+          "width": 412,
+          "height": 904
+        },
+        {
+          "name": "Samsung Galaxy Z Flip4",
+          "width": 360,
+          "height": 800
+        },
+        {
+          "name": "Google Pixel 7 Pro",
+          "width": 412,
+          "height": 915
+        },
+        {
+          "name": "Google Pixel 7",
+          "width": 412,
+          "height": 915
+        },
+        {
+          "name": "Google Pixel 6a",
+          "width": 393,
+          "height": 851
+        },
+        {
+          "name": "OnePlus 11",
+          "width": 412,
+          "height": 919
+        },
+        {
+          "name": "OnePlus 10T",
+          "width": 412,
+          "height": 919
+        },
+        {
+          "name": "Oppo Find X5 Pro",
+          "width": 412,
+          "height": 919
+        },
+        {
+          "name": "Xiaomi 12 Pro",
+          "width": 412,
+          "height": 915
+        },
+        {
+          "name": "iPhone 15 Ultra",
+          "width": 430,
+          "height": 932
+        },
+        {
+          "name": "iPhone 15 Max",
+          "width": 430,
+          "height": 932
+        },
+        {
+          "name": "Samsung Galaxy Z Fold5",
+          "width": 412,
+          "height": 904
+        },
+        {
+          "name": "Samsung Galaxy Z Flip5",
+          "width": 360,
+          "height": 800
+        },
+        {
+          "name": "Google Pixel 8",
+          "width": 412,
+          "height": 915
+        },
+        {
+          "name": "OnePlus 12",
+          "width": 412,
+          "height": 919
+        },
+        {
+          "name": "Oppo Find X6 Pro",
+          "width": 412,
+          "height": 919
+        },
+        {
+          "name": "Xiaomi 13 Ultra",
+          "width": 412,
+          "height": 915
+        }
+      ]
+    },
+    {
+      "name": "Tablets",
+      "devices": [
+        {
+          "name": "iPad Pro 12.9\" (6th gen)",
+          "width": 1024,
+          "height": 1366
+        },
+        {
+          "name": "iPad Pro 12.9\" (5th gen)",
+          "width": 1024,
+          "height": 1366
+        },
+        {
+          "name": "iPad Pro 11\" (4th gen)",
+          "width": 834,
+          "height": 1194
+        },
+        {
+          "name": "iPad Air (6th gen)",
+          "width": 820,
+          "height": 1180
+        },
+        {
+          "name": "iPad Air (5th gen)",
+          "width": 820,
+          "height": 1180
+        },
+        {
+          "name": "Samsung Galaxy Tab S8 Ultra",
+          "width": 1040,
+          "height": 1752
+        },
+        {
+          "name": "Samsung Galaxy Tab S8+",
+          "width": 1040,
+          "height": 1752
+        },
+        {
+          "name": "Samsung Galaxy Tab S8",
+          "width": 800,
+          "height": 1280
+        },
+        {
+          "name": "Samsung Galaxy Tab S7",
+          "width": 753,
+          "height": 1193
+        },
+        {
+          "name": "Microsoft Surface Pro 9",
+          "width": 912,
+          "height": 1368
+        },
+        {
+          "name": "Microsoft Surface Pro 8",
+          "width": 912,
+          "height": 1368
+        },
+        {
+          "name": "Microsoft Surface Go 3",
+          "width": 800,
+          "height": 1280
+        },
+        {
+          "name": "Amazon Fire HD 10",
+          "width": 800,
+          "height": 1280
+        },
+        {
+          "name": "Lenovo Tab P11 Pro",
+          "width": 1080,
+          "height": 1600
+        },
+        {
+          "name": "Huawei MatePad Pro 12.6\"",
+          "width": 1024,
+          "height": 1600
+        },
+        {
+          "name": "iPad Pro 14.1\" (7th gen)",
+          "width": 1192,
+          "height": 1590
+        },
+        {
+          "name": "iPad Air (6th gen)",
+          "width": 820,
+          "height": 1180
+        },
+        {
+          "name": "Samsung Galaxy Tab S9 Ultra",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "name": "Samsung Galaxy Tab S9+",
+          "width": 1080,
+          "height": 1600
+        },
+        {
+          "name": "Samsung Galaxy Tab S9",
+          "width": 1080,
+          "height": 1600
+        },
+        {
+          "name": "Microsoft Surface Pro 10",
+          "width": 912,
+          "height": 1368
+        },
+        {
+          "name": "Microsoft Surface Go 4",
+          "width": 800,
+          "height": 1280
+        },
+        {
+          "name": "Amazon Fire HD 12",
+          "width": 1200,
+          "height": 1920
+        },
+        {
+          "name": "Lenovo Tab P12 Pro",
+          "width": 1080,
+          "height": 1600
+        },
+        {
+          "name": "Huawei MatePad Pro 14.2\"",
+          "width": 1024,
+          "height": 1600
+        }
+      ]
+    },
+    {
+      "name": "Laptops",
+      "devices": [
+        {
+          "name": "MacBook Air 13\"",
+          "width": 1280,
+          "height": 832
+        },
+        {
+          "name": "MacBook Pro 14\"",
+          "width": 1512,
+          "height": 982
+        },
+        {
+          "name": "MacBook Pro 16\"",
+          "width": 1728,
+          "height": 1117
+        },
+        {
+          "name": "Dell XPS 15",
+          "width": 1920,
+          "height": 1200
+        },
+        {
+          "name": "HP Spectre x360",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "name": "Lenovo ThinkPad X1 Carbon",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "name": "Asus ZenBook Pro Duo",
+          "width": 3840,
+          "height": 2160
+        },
+        {
+          "name": "Acer Swift 5",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "name": "Microsoft Surface Laptop 5",
+          "width": 2256,
+          "height": 1504
+        },
+        {
+          "name": "LG gram 17",
+          "width": 2560,
+          "height": 1600
+        },
+        {
+          "name": "Razer Blade 15",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "name": "Apple MacBook Air M2",
+          "width": 2560,
+          "height": 1664
+        },
+        {
+          "name": "Apple MacBook Pro 16\" M2 Max",
+          "width": 3456,
+          "height": 2234
+        },
+        {
+          "name": "Dell XPS 17",
+          "width": 2560,
+          "height": 1600
+        },
+        {
+          "name": "HP Spectre x360 16",
+          "width": 3072,
+          "height": 1920
+        },
+        {
+          "name": "Lenovo ThinkPad X1 Nano",
+          "width": 2160,
+          "height": 1350
+        },
+        {
+          "name": "Asus ZenBook Pro 15 Duo",
+          "width": 3840,
+          "height": 2160
+        },
+        {
+          "name": "Acer Swift 5 Pro",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "name": "Microsoft Surface Laptop Studio",
+          "width": 2400,
+          "height": 1600
+        },
+        {
+          "name": "LG gram 17 (2024)",
+          "width": 2560,
+          "height": 1600
+        },
+        {
+          "name": "Razer Blade 18",
+          "width": 2560,
+          "height": 1600
+        },
+        {
+          "name": "Apple MacBook Air M3",
+          "width": 2560,
+          "height": 1664
+        },
+        {
+          "name": "Apple MacBook Pro 16\" M3 Max",
+          "width": 3456,
+          "height": 2234
+        },
+        {
+          "name": "Dell XPS 17 (2024)",
+          "width": 2560,
+          "height": 1600
+        },
+        {
+          "name": "HP Envy 34",
+          "width": 5120,
+          "height": 2160
+        },
+        {
+          "name": "Lenovo IdeaCentre A540 (2024)",
+          "width": 2560,
+          "height": 1440
+        },
+        {
+          "name": "Acer Aspire S27",
+          "width": 2560,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "name": "Desktops",
+      "devices": [
+        {
+          "name": "Desktop 1080p",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "name": "Desktop 1440p",
+          "width": 2560,
+          "height": 1440
+        },
+        {
+          "name": "Desktop 4K",
+          "width": 3840,
+          "height": 2160
+        },
+        {
+          "name": "Dell Inspiron 27 7000",
+          "width": 2560,
+          "height": 1440
+        },
+        {
+          "name": "HP Envy 32",
+          "width": 3840,
+          "height": 2160
+        },
+        {
+          "name": "Lenovo IdeaCentre A540",
+          "width": 2560,
+          "height": 1440
+        },
+        {
+          "name": "Acer Aspire S24",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "name": "Apple iMac 27\" 5K",
+          "width": 5120,
+          "height": 2880
+        },
+        {
+          "name": "Microsoft Surface Studio 2",
+          "width": 4500,
+          "height": 3000
+        },
+        {
+          "name": "Asus Zen AiO Pro Z240IC",
+          "width": 3840,
+          "height": 2160
+        },
+        {
+          "name": "Samsung ArtPC Pulse",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "name": "HP Pavilion 27",
+          "width": 2560,
+          "height": 1440
+        },
+        {
+          "name": "Dell XPS 8930",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "name": "Apple iMac 32\" 8K",
+          "width": 7680,
+          "height": 4320
+        },
+        {
+          "name": "Microsoft Surface Studio 3",
+          "width": 4500,
+          "height": 3000
+        },
+        {
+          "name": "Asus Zen AiO Pro Z240IC (2024)",
+          "width": 3840,
+          "height": 2160
+        },
+        {
+          "name": "Samsung ArtPC Pulse (2024)",
+          "width": 2560,
+          "height": 1440
+        },
+        {
+          "name": "HP Pavilion 32",
+          "width": 3840,
+          "height": 2160
+        },
+        {
+          "name": "Dell XPS 8940 (2024)",
+          "width": 2560,
+          "height": 1440
+        }
+      ]
+    }
+  ]
+}

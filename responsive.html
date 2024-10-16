@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Responsive View</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+    #controls {
+      margin-bottom: 10px;
+    }
+    #content {
+      display: flex;
+      flex-grow: 1;
+    }
+    #frameContainer {
+      border: 2px solid #007bff;
+      margin-right: 20px;
+    }
+    #deviceFrame {
+      border: none;
+    }
+    #infoPanel {
+      flex-grow: 1;
+      overflow-y: auto;
+    }
+    #deviceInfo {
+      margin-bottom: 10px;
+    }
+    select, button {
+      margin: 5px;
+      padding: 5px;
+    }
+    button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    #mediaQueryInfo {
+      margin-top: 20px;
+      padding: 10px;
+      background-color: #f0f0f0;
+      border-radius: 5px;
+    }
+    #mediaQueryInfo h3 {
+      margin-top: 0;
+    }
+    #mediaQueryInfo pre {
+      margin: 5px 0;
+      padding: 5px;
+      background-color: #e0e0e0;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+<body>
+  <div id="controls">
+    <select id="deviceSelect"></select>
+    <button id="refreshButton">Refresh</button>
+    <label>
+      <input type="checkbox" id="landscapeToggle"> Landscape Mode
+    </label>
+  </div>
+  <div id="content">
+    <div id="frameContainer">
+      <iframe id="deviceFrame"></iframe>
+    </div>
+    <div id="infoPanel">
+      <div id="deviceInfo"></div>
+      <div id="mediaQueryInfo"></div>
+    </div>
+  </div>
+  <script src="responsive.js"></script>
+</body>
+</html>
