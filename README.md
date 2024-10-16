@@ -11,8 +11,12 @@ Responsive Design Checker is a Chrome extension that allows web developers and d
 
 ## Installation
 
-1. Visit the [Chrome Web Store page for Responsive Design Checker](https://chrome.google.com/webstore/detail/[your-extension-id])
-2. Click "Add to Chrome" to install the extension
+1. Download the latest release of Responsive Design Checker from the [GitHub releases page](https://github.com/your-username/responsive-design-checker/releases)
+2. Unzip the downloaded file to a location on your computer
+3. Open Google Chrome and navigate to `chrome://extensions`
+4. Enable "Developer mode" in the top right corner
+5. Click "Load unpacked" and select the directory where you unzipped the extension files
+6. The Responsive Design Checker extension should now be installed and visible in your Chrome toolbar
 
 ## Usage
 
